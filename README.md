@@ -99,11 +99,11 @@ Here's how to contribute:
 ## 🧑‍💼 Project Maintainers
 **This projects is maintaned by Your's Truely..**
 
-- **[]** – GitHub Docs Manager 📖  
-- **[Team Member]** – Lead Dev 🔧  
-- **[Team Member]** – Data Engineer 📊  
-- **[Team Member]** – Data Engineer 📊
-- **[Team Member]** – Data Engineer 📊  
+- **[@devlegend](https://github.com/devlegend) – Lead Dev 🔧  
+- **[@devlegend](https://github.com/devlegend) – Lead Dev 🔧
+- **[@devlegend](https://github.com/devlegend) – Lead Dev 🔧
+- **[@devlegend](https://github.com/devlegend) – Lead Dev 🔧
+- **[@devlegend](https://github.com/devlegend) – Lead Dev 🔧
 ---
 
 ## 📬 Contact
