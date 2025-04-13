@@ -102,7 +102,7 @@ Here's how to contribute:
 - **[@](https://github.com/U22CS1004) – Data Handler.** 
 - **[@](https://github.com/Moh-dakai) – Core Backend Engineer.**
 - **[@](https://github.com/Eseoghene-ChristineOtuaga) – Streamlit UI and User Interaction Manager.**  
-- **[@](https://github.com/Favour-D) – Technical and Summary Reporter.** 
+- **[@Oloruntoba Favour](https://github.com/Favour-D) – Technical and Summary Reporter.** 
 - **[@Collins Dada](https://github.com/Contractor-x) – Github Documentation and Release Manager.** 
 ---
 
