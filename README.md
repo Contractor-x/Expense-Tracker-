@@ -2,6 +2,8 @@
 
 > 🚀 **Your personal finance sidekick — track, analyze, and dominate your spending habits. Built with Python + Streamlit.**
 
+---
+
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
@@ -12,13 +14,13 @@
 
 ---
 
-## 🧠 What is Expense-Tracker?
+## What Exactly is Expense-Tracker?
 
 **Expense-Tracker** is a sleek, interactive app for tracking your income and expenses, built entirely in **Python** with a **Streamlit** frontend. <!-- Whether you're a student, a freelancer, or a cryptobro trying to understand where your ETH went — we got you. 💁‍♂️ -->
 
 ---
 
-## 🎯 Features
+## Features
 
 ✅ Add income and expenses with ease  
 📊 Real-time analytics and spending summaries  
@@ -30,7 +32,7 @@
 
 ---
 
-## 🖼️ UI Preview
+## UI Preview
 
 > ✨ Because who doesn't love a good visual?
 
@@ -38,7 +40,7 @@
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 # 1. Clone the repo
@@ -54,7 +56,7 @@ streamlit run app.py
 
 ---
 
-## 🧱 Built With
+## Built With
 
 | Tech        | Purpose                     |
 |-------------|-----------------------------|
@@ -65,7 +67,7 @@ streamlit run app.py
 
 ---
 
-## 🛠️ How It Works
+## How It Works
 
 ```mermaid
 graph TD;
@@ -86,7 +88,7 @@ graph TD;
 -->
 ---
 
-## 👨‍💻 Contributing
+## Contributing
 Here's how to contribute:
 
 1.  Fork the repo
@@ -96,9 +98,9 @@ Here's how to contribute:
 
 ---
 
-## 🧑‍💼 Project Maintainers
+##  Project Maintainers
 **This projects is maintaned by Your's Truely..**
-
+👨‍💻
 - **[@](https://github.com/U22CS1004) – Data Handler.** 
 - **[@](https://github.com/Moh-dakai) – Core Backend Engineer.**
 - **[@](https://github.com/Eseoghene-ChristineOtuaga) – Streamlit UI and User Interaction Manager.**  
@@ -106,7 +108,7 @@ Here's how to contribute:
 - **[@Collins Dada](https://github.com/Contractor-x) – Github Documentation and Release Manager.** 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions, collabs, or fan mail:
 
@@ -117,7 +119,7 @@ For questions, collabs, or fan mail:
 
 ---
 
-## ⭐ Star this repo
+## Star this repo
 
 <!--If this helped you or saved you from financial doom, --> 
 Smash that ⭐ button. It helps more than you think!
