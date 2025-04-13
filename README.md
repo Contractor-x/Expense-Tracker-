@@ -101,11 +101,11 @@ Here's how to contribute:
 ##  Project Maintainers
 **This projects is maintaned by Your's Truely..**
 👨‍💻
-- **[@](https://github.com/U22CS1004) – Data Handler.** 
-- **[@](https://github.com/Moh-dakai) – Core Backend Engineer.**
-- **[@](https://github.com/Eseoghene-ChristineOtuaga) – Streamlit UI and User Interaction Manager.**  
-- **[@Oloruntoba Favour](https://github.com/Favour-D) – Technical and Summary Reporter.** 
-- **[@Collins Dada](https://github.com/Contractor-x) – Github Documentation and Release Manager.** 
+- **[@Muhammad](https://github.com/U22CS1004) – Data Handler.** 
+- **[@Nafisat](https://github.com/Moh-dakai) – Core Backend Engineer.**
+- **[@Eseoghene](https://github.com/Eseoghene-ChristineOtuaga) – Streamlit UI and User Interaction Manager.**  
+- **[@Favour Diamond](https://github.com/Favour-D) – Technical and Summary Reporter.** 
+- **[@Collins](https://github.com/Contractor-x) – Github Documentation and Release Manager.** 
 ---
 
 ## Contact
