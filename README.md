@@ -99,17 +99,17 @@ Here's how to contribute:
 ## 🧑‍💼 Project Maintainers
 **This projects is maintaned by Your's Truely..**
 
-- **[@devlegend](https://github.com/devlegend) – Lead Dev 🔧  
-- **[@devlegend](https://github.com/devlegend) – Lead Dev 🔧
-- **[@devlegend](https://github.com/devlegend) – Lead Dev 🔧
-- **[@devlegend](https://github.com/devlegend) – Lead Dev 🔧
-- **[@devlegend](https://github.com/devlegend) – Lead Dev 🔧
+- **[@](https://github.com/U22CS1004) – Data Handler.** 
+- **[@](https://github.com/Moh-dakai) – Core Backend Engineer.**
+- **[@](https://github.com/Eseoghene-ChristineOtuaga) – Streamlit UI and User Interaction Manager.**  
+- **[@](https://github.com/Favour-D) – Technical and Summary Reporter.** 
+- **[@Collins Dada](https://github.com/Contractor-x) – Github Documentation and Release Manager.** 
 ---
 
 ## 📬 Contact
 
 For questions, collabs, or fan mail:
-Hit any Project Maintainer up. and we will respond in a Jiffy..
+> Hit any Project Maintainer up. and we will respond in a Jiffy..
 <!--📧 your.email@example.com  
 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
 🐙 [GitHub](https://github.com/your-username)-->
