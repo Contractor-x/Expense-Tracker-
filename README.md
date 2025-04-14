@@ -102,7 +102,7 @@ Here's how to contribute:
 **This projects is maintaned by Your's Truely..**
 👨‍💻
 - **[@Nafisat](https://github.com/U22CS1004) – Data Handler.** 
-- **[@Nafisat](https://github.com/Moh-dakai) – Core Backend Engineer.**
+- **[@Muhammed](https://github.com/Moh-dakai) – Core Backend Engineer.**
 - **[@Eseoghene](https://github.com/Eseoghene-ChristineOtuaga) – Streamlit UI and User Interaction Manager.**  
 - **[@Favour Diamond](https://github.com/Favour-D) – Technical and Summary Reporter.** 
 - **[@Collins](https://github.com/Contractor-x) – Github Documentation and Release Manager.** 
