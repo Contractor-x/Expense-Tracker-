@@ -48,6 +48,3 @@ Where clean design meets smooth user experience, all powered by Streamlit.
 
 Built by 🔗 [@Eseoghene](https://github.com/Eseoghene-ChristineOtuaga) — open to front-end roles, product design collabs, and UI/UX internships.
 
----
-
-Let me know if you want this bundled into her own folder or linked inside the main `README.md`!
