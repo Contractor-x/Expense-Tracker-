@@ -1,6 +1,6 @@
 # Backend Engineering – Expense Tracker 🛠️
 
-Welcome to the backend brain of **Expense Tracker** – a modern, lightweight personal finance dashboard built with Python and Streamlit.
+ A modern, lightweight personal finance dashboard built with Python and Streamlit.
 
 ---
 
