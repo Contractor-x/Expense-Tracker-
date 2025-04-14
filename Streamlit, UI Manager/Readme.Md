@@ -29,7 +29,7 @@ Where clean design meets smooth user experience, all powered by Streamlit.
 | Library      | Purpose                           |
 |--------------|-----------------------------------|
 | `Streamlit`  | UI rendering, routing, interactivity |
-| `Pandas`     | Backend data support for UI forms  |
+
 
 
 ---
