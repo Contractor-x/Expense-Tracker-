@@ -30,8 +30,7 @@ Where clean design meets smooth user experience, all powered by Streamlit.
 |--------------|-----------------------------------|
 | `Streamlit`  | UI rendering, routing, interactivity |
 | `Pandas`     | Backend data support for UI forms  |
-| `Plotly`     | Interactive visual feedback         |
-| `HTML/CSS`   | Enhanced styling and layout tweaks |
+
 
 ---
 
