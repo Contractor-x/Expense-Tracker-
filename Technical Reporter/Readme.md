@@ -1,6 +1,6 @@
 # 📝 Technical Reporting – Expense Tracker
 
-Welcome to the documentation core of **Expense Tracker** – where clean code meets crystal-clear communication. This is where features become stories and data becomes documentation.
+Where code meets crystal-clear communication.
 
 ---
 
