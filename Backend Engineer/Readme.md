@@ -1,19 +1,19 @@
-# 🛠️ Backend Engineering – Expense Tracker
+# Backend Engineering – Expense Tracker 🛠️
 
 Welcome to the backend brain of **Expense Tracker** – a modern, lightweight personal finance dashboard built with Python and Streamlit.
 
 ---
 
-## 👨‍💻 Backend Engineer
+## Backend Engineer 👨‍💻
 
-**Name:** Mohammed 
-**Role:** Backend Engineer  
-**GitHub:** [@Moh-dakai](https://github.com/Moh-dakai)  
-**Tech Stack:** `Python`, `Pandas`, `Streamlit`, `Matplotlib`, `Plotly`
+- **Name:** Mohammed 
+- **Role:** Backend Engineer  
+- **GitHub:** [@Moh-dakai](https://github.com/Moh-dakai)  
+- **Tech Stack:** `Python`, `Pandas`, `Streamlit`, `Matplotlib`, `Plotly`
 
 ---
 
-## 📌 Responsibilities
+## Achivements
 
 - Architected the backend data models using **Pandas** for financial transactions  
 - Developed local data storage with extendable hooks for cloud integration  
@@ -24,7 +24,7 @@ Welcome to the backend brain of **Expense Tracker** – a modern, lightweight pe
 
 ---
 
-## 🧰 Tools & Libraries Used
+## Tools & Libraries Used
 
 | Library      | Purpose                          |
 |--------------|----------------------------------|
@@ -37,24 +37,8 @@ Welcome to the backend brain of **Expense Tracker** – a modern, lightweight pe
 
 ---
 
-<!--
 
-
-## 🔁 Core Logic Overview
-
-```mermaid
-graph LR
-    A[User Input] --> B{Validation}
-    B --> C[Store in DataFrame]
-    C --> D[Save to Local JSON]
-    C --> E[Generate Visualizations]
-    E --> F[Streamlit Dashboard]
-
-    B --> G[Error Handling]
-
--->
-
-## 🚀 Highlights
+## Highlights
 
 - Clean, modular functions (`add_income`, `add_expense`, `load_data`, `filter_data`)  
 - Seamless data reactivity on every input  
@@ -63,10 +47,6 @@ graph LR
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
-Built by [@Moh-dakai](https://github.com/Moh-dakai) — open to collaborations, internships, and backend-focused roles.
-
----
-
-Let me know if you want this in a downloadable `.md` file or included as a sub-README in a `/backend` folder structure for the repo.
+Built by 🔗 [@Moh-dakai](https://github.com/Moh-dakai) — open to collaborations, internships, and backend-focused roles.
