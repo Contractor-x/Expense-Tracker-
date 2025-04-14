@@ -6,6 +6,10 @@ Where clean design meets smooth user experience, all powered by Streamlit.
 
 ## UI & Interaction Manager 🧑‍🎨
 
+<p align="center">
+  <!-- Sreamlit-->
+ <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
 - **Name:** Eseoghene  
 - **Role:** Streamlit UI & User Interaction Manager  
 - **GitHub:** [@Eseoghene](https://github.com/Eseoghene-ChristineOtuaga)  
