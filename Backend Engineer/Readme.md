@@ -6,7 +6,11 @@
 
 ## Backend Engineer 👨‍💻
 
-- **Name:** Mohammed 
+<p align="center">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+ - **Name:** Mohammed
 - **Role:** Backend Engineer  
 - **GitHub:** [@Moh-dakai](https://github.com/Moh-dakai)  
 - **Tech Stack:** `Python`, `Pandas`, `Streamlit`, `Matplotlib`, `Plotly`
