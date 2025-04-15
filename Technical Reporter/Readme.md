@@ -6,6 +6,10 @@ Where code meets crystal-clear communication.
 
 ## Technical Reporter ✍️
 
+<p align="center">
+  <!-- Word -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_Office_Word_%282018–present%29.svg" width="100px" />
+
 - **Name:** Favour Diamond  
 - **Role:** Technical Reporter & Documentation Lead  
 - **GitHub:** [@Favour-Diamond](https://github.com/Favour-D)  
