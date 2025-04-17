@@ -26,18 +26,19 @@
 📊 Real-time analytics and spending summaries  
 📅 Filter by date, category, and tags  
 💾 Data saved locally (or extend to cloud!)  
-📈 Pie & bar charts to visualize where your money’s going  
-🧠 Super clean UI with Streamlit  
-🔐 Privacy-respecting — your data stays on your machine
+📈 Pie charts to visualize where your money’s going  
+🧠 Super clean UI developed with Streamlit  
+🔐 Privacy-respecting — your data stays on your machine using Space/Cost-Effective methods 
 
 ---
 
 ## UI Preview
-
+No Preview was provided for visualistaion.
+<!--
 > ✨ Because who doesn't love a good visual?
 
 ![App Screenshot](https://your-screenshot-link.com/demo.gif)
-
+-->
 ---
 
 ## Installation
@@ -71,9 +72,9 @@ streamlit run app.py
 
 ```mermaid
 graph TD;
-    A[User Inputs Expense] --> B[Stored in Pandas DataFrame]
-    B --> C[Streamlit Updates Charts]
-    C --> D[User Sees Realtime Insights]
+    A[User Inputs Expense] --> B[Stored in Pandas Datasets using the monthly frequency ratio]
+    B --> C[Streamlit Updates the Pie-Charts with defined data]
+    C --> D[User Sees Realtime Insights and updates which shows monthly and expense incomes in Clear and understandable Formats]
 ```
 <!--
 ---
